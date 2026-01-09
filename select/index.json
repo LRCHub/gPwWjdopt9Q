@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Sweet Revolution",
+  "base_artist": "夜の本気ダンス",
+  "createdAt": "2026-01-09T20:54:07.527006Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweet Revolution",
+      "artist": "Alabama 3",
+      "has_synced": true,
+      "path": "select/01_Sweet_Revolution_Alabama_3.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweet Revolution (feat. Bob Crow)",
+      "artist": "Alabama 3",
+      "has_synced": true,
+      "path": "select/02_Sweet_Revolution_(feat._Bob_Crow)_Alabama_3.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweet Revolution",
+      "artist": "Yoru no Honki Dance",
+      "has_synced": true,
+      "path": "select/03_Sweet_Revolution_Yoru_no_Honki_Dance.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SWEET REVOLUTION",
+      "artist": "氷室京介",
+      "has_synced": false,
+      "path": "select/04_SWEET_REVOLUTION_氷室京介.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet Revolution",
+      "artist": "Kyosuke Himuro",
+      "has_synced": false,
+      "path": "select/05_Sweet_Revolution_Kyosuke_Himuro.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet Revolution",
+      "artist": "夜の本気ダンス",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_Revolution_夜の本気ダンス.txt"
+    }
+  ]
+}
